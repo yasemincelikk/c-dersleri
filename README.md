@@ -1,1 +1,1 @@
-# c-dersleri
+# c dersleri kodları zamanla atılacaktır.
