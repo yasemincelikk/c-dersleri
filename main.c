@@ -1,4 +1,4 @@
-//Veri tipleri ve deðiþkenleri tanýmak amaçlý çalýþýlmýþtýr.
+//Veri tipleri ve degiskenleri tanimak amacli calisilmistir.
 #include <stdio.h> 
 #include <stdlib.h>
 unsigned char  a; //1 byte
@@ -32,8 +32,8 @@ int main()
     a = 73;
     e = 3.18;
     printf("a = %c\n" , a  ); // ASCII 
-    printf("a = %d\n" , a  ); // Tamsayý
-    printf("a = %.2f\n" , e ); // Noktalý Sayý
+    printf("a = %d\n" , a  ); // Tamsayi
+    printf("a = %.2f\n" , e ); // Noktali Sayi
     printf("Dizi Verisi = %s\n" , buf ); //String 
     return 0;
 }
